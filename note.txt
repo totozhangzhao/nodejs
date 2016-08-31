@@ -1,0 +1,9 @@
+安装:
+	npm install express
+	npm install jade 
+	npm install mongoose
+	npm install bower -g
+	bower install bootstrap
+
+cli: PORT=4000 node app 改写监听端口
+
